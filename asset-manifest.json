@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal_portfolio_website/static/css/main.aded2a64.css",
+    "main.js": "/personal_portfolio_website/static/js/main.51d48947.js",
+    "static/js/453.1407b060.chunk.js": "/personal_portfolio_website/static/js/453.1407b060.chunk.js",
+    "static/media/Xue_Zhou_Resume_Employment.pdf": "/personal_portfolio_website/static/media/Xue_Zhou_Resume_Employment.61e52cf233ca61269458.pdf",
+    "index.html": "/personal_portfolio_website/index.html",
+    "main.aded2a64.css.map": "/personal_portfolio_website/static/css/main.aded2a64.css.map",
+    "main.51d48947.js.map": "/personal_portfolio_website/static/js/main.51d48947.js.map",
+    "453.1407b060.chunk.js.map": "/personal_portfolio_website/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aded2a64.css",
+    "static/js/main.51d48947.js"
+  ]
+}
